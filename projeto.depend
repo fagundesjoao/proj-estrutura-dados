@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1575479371 source:c:\users\seiki\desktop\asdasd\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaContatos.h"
+
+1575479330 c:\users\seiki\desktop\asdasd\listacontatos.h
+
+1575479348 source:c:\users\seiki\desktop\asdasd\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaContatos.h"
+	<string.h>
+	<locale.h>
+
+1575479371 source:c:\users\joao\desktop\asdasd\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaContatos.h"
+
+1575479330 c:\users\joao\desktop\asdasd\listacontatos.h
+
+1575479348 source:c:\users\joao\desktop\asdasd\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaContatos.h"
+	<string.h>
+	<locale.h>
+
+1575487218 source:c:\users\joao\desktop\projetoed1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaContatos.h"
+	<string.h>
+	<locale.h>
+
+1575481296 c:\users\joao\desktop\projetoed1\listacontatos.h
+
+1575485822 source:c:\users\joao\desktop\projetoed1\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaContatos.h"
+
